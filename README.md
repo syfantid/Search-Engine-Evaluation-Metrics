@@ -1,7 +1,7 @@
 # Search-Engine-Evaluation-Metrics
-Information Retrieval Systems (e.g. Search Engines) evaluation metrics in R. 
+Information Retrieval Systems (e.g. Search Engines, Recommender Systems, etc.) evaluation metrics in R. 
 
-Translated and adapted accordingly from Python to R. Original implementation in Python by bwhite (https://gist.github.com/bwhite/3726239). Translated in R by Sofia Yfantidou (https://github.com/syfantid).
+Translated and adapted accordingly from Python to R. Original implementation in Python by <a href="https://gist.github.com/bwhite/3726239">bwhite</a>. Translated in R by <a href="https://github.com/syfantid">Sofia Yfantidou</a>.
 
 Metrics included:
 * Precision@K : The top k results need to be examined to determine if they are relevant or not.
